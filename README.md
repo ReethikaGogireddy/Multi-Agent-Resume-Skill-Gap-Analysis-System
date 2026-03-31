@@ -65,9 +65,11 @@ The system is organized into the following modules:
 ## Datasets
 ### 1. LinkedIn Jobs Dataset
 Used for job descriptions, role requirements, and skill demand patterns.
+https://www.kaggle.com/datasets/joykimaiyo18/linkedin-data-jobs-dataset?utm_source=chatgpt.com
 
 ### 2. Resume Dataset
 Used for resume text, category labels, and skill extraction experiments.
+https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset
 
 ## Preprocessing
 The following preprocessing steps are applied:
@@ -132,6 +134,7 @@ The project is evaluated using:
 - actionability of suggestions
 - robustness to resume formatting and writing style
 
+
 ## Project Structure
 ```bash
 multi-agent-resume-screening/
@@ -145,3 +148,6 @@ multi-agent-resume-screening/
 ├── skills/
 ├── outputs/
 └── tests/
+
+## Instructions:
+All files in gdrive as we are using colab
